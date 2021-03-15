@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from "react-bootstrap"
-import Navbar from "../../Navbar/Navbar"
 //CSS
 import "./dutcher.css"
 

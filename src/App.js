@@ -32,7 +32,7 @@ function App() {
           <Route path="/dutcher" exact>
             <Dutcher />
           </Route>
-          <Route path="trimatcher" exact>
+          <Route path="/trimatcher" exact>
             <Trimatcher />
           </Route>
         </Switch>
