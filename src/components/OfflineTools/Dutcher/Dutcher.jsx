@@ -1,13 +1,18 @@
 import React, { Component } from 'react';
+import { Container, Row, Col } from "react-bootstrap"
+import Navbar from "../../Navbar/Navbar"
+//CSS
+import "./dutcher.css"
 
-class dutcher extends Component {
+
+class Dutcher extends Component {
     render() {
         return (
-            <div>
+            <Container id="mainDutcherContainer" fluid>
                 
-            </div>
+            </Container>
         );
     }
 }
 
-export default dutcher;
+export default Dutcher;
